@@ -1,0 +1,5 @@
+.env
+rag_env
+*.pdf
+input 1*
+questions 1*
